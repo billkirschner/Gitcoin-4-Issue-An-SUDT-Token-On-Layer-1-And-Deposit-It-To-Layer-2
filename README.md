@@ -2,7 +2,7 @@
 
 A link to the Layer 1 address you funded on the Testnet Explorer.
 
-
+https://explorer.nervos.org/aggron/address/ckt1qyqxpva00ahslyezf29zu7h3akc4hx0px8msp3h8a3 
 
 A screenshot of the console output immediately after using sudt-cli to create your SUDT tokens on Layer 1.
 
